@@ -1,1 +1,1 @@
-# Smart-fridge-and-smart-bill-analyser
+Smart-fridge-and-smart-bill-analyserInspired by the Samsung Family Hub, AI-driven meal planners, and Tommy Hilfiger's smart mirror, this Smart Fridge combines interactive AI for personalized recipe suggestions, outfit planning, and a seamless touchscreen experience. Currently in development to bring next-gen convenience to modern kitchens.
